@@ -1,6 +1,6 @@
 # Gamemaker LTS Decompiler
 
-this script was made for the purpose of teaching myself C#.
+this script was made for the purpose of teaching myself C#, Pull requests welcome!
 
 # Want to use?
 
@@ -24,4 +24,4 @@ This version has no stolen code from Lila's leaked decompiler!
 
 Please do report it using the github issue tracker!
 
-I am not affiliated with UnderminersTeam and this script was made after a long week of fun
+I am not affiliated with UnderminersTeam.
